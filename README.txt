@@ -1,6 +1,5 @@
-**This is a Library management system
-in which students and the Librarians can make changes.**
-###The project is in C++ without any UI(Command shell based).
+**This is a Library management system in which students and the Librarians can make changes.**
+The project is in C++ without any UI(Command shell based).
 
 
 
